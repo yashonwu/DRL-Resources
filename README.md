@@ -1,5 +1,5 @@
 # Deep Reinforcement Learning Resources
-Some notes for DRL Resources
+Some DRL Resources
 
 ## Surveys
 - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
