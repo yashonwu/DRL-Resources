@@ -28,3 +28,6 @@ Some DRL Resources
 
 ## Talks
 - [Sergey Levine - Understanding the World Through Action @ UCL DARK](https://www.youtube.com/watch?v=yXImQEMS77g)
+
+## Blogs
+- [离线强化学习系列博客专栏](https://www.zhihu.com/column/c_1487193754071617536)
