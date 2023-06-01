@@ -15,6 +15,7 @@ Some DRL Resources
 ## Tutorials
 - [HuggingFace Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 - [Open AI Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html)
+- [NeurIPS 2020 Tutorial Offline Reinforcement Learning: From Algorithms to Practical Challenges](https://sites.google.com/view/offlinerltutorial-neurips2020/home)
 
 ## Books
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton and Andrew G. Barto
@@ -31,3 +32,12 @@ Some DRL Resources
 
 ## Blogs
 - [离线强化学习系列博客专栏](https://www.zhihu.com/column/c_1487193754071617536)
+- [自监督强化学习:主要介绍基于表征学习路线的自监督强化学习, 天津大学深度强化学习实验室](https://www.zhihu.com/column/c_1424482085201932288)
+- [离线强化学习 (Offline RL), 天津大学深度强化学习实验室](https://www.zhihu.com/column/c_1425801467626741760)
+- [Domain Randomization for Sim2Real Transfer, by Lilian Weng](https://lilianweng.github.io/posts/2019-05-05-domain-randomization/)
+- [The Multi-Armed Bandit Problem and Its Solutions, by Lilian Weng](https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/)
+- [A (Long) Peek into Reinforcement Learning, by Lilian Weng](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
+- [Policy Gradient Algorithms, by Lilian Weng](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
+- [Meta Reinforcement Learning, by Lilian Weng](https://lilianweng.github.io/posts/2019-06-23-meta-rl/)
+- [Curriculum for Reinforcement Learning, by Lilian Weng](https://lilianweng.github.io/posts/2020-01-29-curriculum-rl/)
+- [Exploration Strategies in Deep Reinforcement Learning, by Lilian Weng](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/)
